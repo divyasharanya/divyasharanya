@@ -47,13 +47,8 @@
 
 ---
 
-### 🌐 Connect With Me  
-<p align="left">
-  <a href="https://instagram.com/nik-name-is-nani" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/k-nikshith-b4b8b42ba/" target="blank">
+### 🌐 Connect With Me    
+  <a href="https://www.linkedin.com/in/divya-saranya-g-s-1b64512bb/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
@@ -75,24 +70,24 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nik-nam-is-nani&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=divyasharanya&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nik-nam-is-nani&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyasharanya&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nik-nam-is-nani" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyasharanya" alt="GitHub Streak" />
 </p>
 
 ## 🐍 Contribution Snake
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nik-nam-is-nani/nik-nam-is-nani/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nik-nam-is-nani/nik-nam-is-nani/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/nik-nam-is-nani/nik-nam-is-nani/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyasharanya/divyasharanya/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyasharanya/divyasharanya/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/divyasharanya/divyasharanya/output/github-snake.svg" />
   </picture>
 </p>
