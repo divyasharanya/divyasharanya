@@ -41,9 +41,9 @@
 </p>
 
 ### 📂 My Work  
-- 🌐 Portfolio → [Click Here](https://divyasharanya-po.netlify.app/)  
+- 🌐 Portfolio → [Click Here](https://divya-sharanya-po.netlify.app/)  
 - 📄 Resume → [View Resume](https://drive.google.com/file/d/1ZgcIpeXOX6-7v2veMNG9kT-8vRptmvOG/view?usp=sharing)  
-- 📬 Contact → [Email Me](mailto:nikshithkyatherigi2005@gmail.com)  
+- 📬 Contact → [Email Me](mailto:divyasaranya0619@gmail.com)  
 
 ---
 
