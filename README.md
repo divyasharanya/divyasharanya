@@ -65,7 +65,7 @@
 ---
 ### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nik-nam-is-nani&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyasharanya&theme=react-dark" />
 </p>
 
 ### 🏆 GitHub Trophies
