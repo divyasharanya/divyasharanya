@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm NIKSHITH</h1>
+<h1 align="center">Hi 👋, I'm DIVYA</h1>
 <center>
 <h3>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0EB4F7&width=700&lines=Full+Stack+Developer;Backend+Developer+(Java);AI+%26+Machine+Learning+Enthusiast;Frontend+Animator;Problem+Solver;Computer+Science+Undergrad" alt="Typing SVG" />
@@ -18,6 +18,7 @@
 
 ---
 <img align="right" alt="Coding" width="300"  src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bXJ3MzN3cGZpZms0ZnFycWZ2eGU2ZG1ieThuaW03cG1uN2Jib3FyNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QXwtfadqo7wbfmT46H/giphy.gif">-
+
 
 ### 👨‍💻 About Me  
 
