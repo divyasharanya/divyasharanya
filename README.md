@@ -42,7 +42,7 @@
 
 ### 📂 My Work  
 - 🌐 Portfolio → [Click Here](https://divya-sharanya-po.netlify.app/)  
-- 📄 Resume → [View Resume](https://drive.google.com/file/d/1ZgcIpeXOX6-7v2veMNG9kT-8vRptmvOG/view?usp=sharing)  
+- 📄 Resume → [View Resume](https://drive.google.com/file/d/1ftBGSmk0e14paQhKzqvr5L6nEfDBNQ6Z/view?usp=drivesdk)  
 - 📬 Contact → [Email Me](mailto:divyasaranya0619@gmail.com)  
 
 ---
