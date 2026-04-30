@@ -9,7 +9,7 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/divya-saranya-g-s-1b64512bb/"><img src="https://img.shields.io/badge/LINKEDIN-%2300D4FF?style=for-the-badge&logo=linkedin&logoColor=050510&labelColor=00D4FF"/></a>&nbsp;
-<a href="https://divya-sharanya-po.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-%23050510?style=for-the-badge&logo=firefox&logoColor=00D4FF&labelColor=050510&color=00D4FF"/></a>&nbsp;
+<a href="https://divya-sharanya-po.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-%23050510?style=for-the-badge&logo=firefox&logoColor=00D4FF&labelColor=050510"/></a>&nbsp;
 <a href="mailto:divyasaranya0619@gmail.com"><img src="https://img.shields.io/badge/CONTACT-%23050510?style=for-the-badge&logo=gmail&logoColor=00D4FF&labelColor=050510"/></a>&nbsp;
 <a href="https://drive.google.com/file/d/1ftBGSmk0e14paQhKzqvr5L6nEfDBNQ6Z/view?usp=drivesdk"><img src="https://img.shields.io/badge/RESUME-%23050510?style=for-the-badge&logo=adobeacrobatreader&logoColor=00D4FF&labelColor=050510"/></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=divyasharanya&label=VISITORS&color=00D4FF&style=for-the-badge&labelColor=050510"/>
@@ -42,26 +42,26 @@ class DivyaSharanya:
 
 ---
 
+## 🏆 ACHIEVEMENT UNLOCKED
+
 <div align="center">
 
-## `[ 🏆 ACHIEVEMENT UNLOCKED ]`
+<img src="https://img.shields.io/badge/META%20PYTORCH%20OpenEnv%20Hackathon%20%C3%97%20Scaler-GRAND%20FINALIST-00D4FF?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=0a0f2e" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:0066FF&height=3" width="80%"/>
+<br/><br/>
 
-```
-  ██╗  ██╗ █████╗  ██████╗██╗  ██╗ █████╗ ████████╗██╗  ██╗ ██████╗ ███╗   ██╗
-  ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔══██╗╚══██╔══╝██║  ██║██╔═══██╗████╗  ██║
-  ███████║███████║██║     █████╔╝ ███████║   ██║   ███████║██║   ██║██╔██╗ ██║
-  ██╔══██║██╔══██║██║     ██╔═██╗ ██╔══██║   ██║   ██╔══██║██║   ██║██║╚██╗██║
-  ██║  ██║██║  ██║╚██████╗██║  ██╗██║  ██║   ██║   ██║  ██║╚██████╔╝██║ ╚████║
-  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
-
-  🏅  META PYTORCH OPENENV HACKATHON  ×  SCALER  —  GRAND FINALIST
-      $30K Prize Pool  ·  Bangalore 2025  ·  Presented live to Meta engineers
-      Competed nationally  ·  Multi-Agent RL system  ·  GRPO + Qwen2.5 on A10G GPU
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:0066FF&height=3" width="80%"/>
+<table>
+<tr>
+<td align="center"><b>🥇 Grand Finalist</b></td>
+<td align="center"><b>💰 $30K Prize Pool</b></td>
+<td align="center"><b>📍 Bangalore, 2025</b></td>
+</tr>
+<tr>
+<td align="center">Competed Nationally</td>
+<td align="center">Presented live to Meta engineers</td>
+<td align="center">Multi-Agent RL · GRPO + Qwen2.5 · A10G GPU</td>
+</tr>
+</table>
 
 </div>
 
@@ -76,7 +76,7 @@ class DivyaSharanya:
 | Fine-tuning (GRPO, LoRA) | Deep Learning (CNNs, RNNs) | Spring Boot REST APIs |
 | Multi-Agent Systems | Computer Vision (OpenCV) | Oracle DB · MySQL · JDBC |
 | RAG Pipelines | NLP & Text Classification | React · Node.js |
-| Prompt Engineering | Data Analysis & Viz | Full Stack Integration |
+| Prompt Engineering | Data Analysis & Visualisation | Full Stack Integration |
 | HuggingFace · TRL · Unsloth | Pandas · NumPy · Sklearn | Docker · Linux · Git |
 
 </div>
@@ -87,7 +87,7 @@ class DivyaSharanya:
 
 <br/>
 
-### `PROJECT_01` — Crisis Triage Arena &nbsp;|&nbsp; *Multi-Agent Reinforcement Learning*
+### `01` — Crisis Triage Arena &nbsp;|&nbsp; *Multi-Agent Reinforcement Learning*
 
 <img align="right" src="https://img.shields.io/badge/A10G_GPU-DEPLOYED-00D4FF?style=flat-square&logo=nvidia&logoColor=050510&labelColor=050510"/>
 
@@ -95,15 +95,15 @@ class DivyaSharanya:
 
 ```
   Agent_1 [TRIAGE]  →  reward: patient_severity_score
-  Agent_2 [COMMS]   →  reward: coordination_accuracy  
+  Agent_2 [COMMS]   →  reward: coordination_accuracy
   Agent_3 [DEPLOY]  →  reward: response_time_delta
   Agent_4 [AUDIT]   →  reward: decision_consistency
-        ↓
-  emergent cooperative behavior via GRPO
+                 ↓
+        emergent cooperative behavior via GRPO
 ```
 
 ![Python](https://img.shields.io/badge/Python-050510?style=flat-square&logo=python&logoColor=00D4FF)
-![PyTorch](https://img.shields.io/badge/PyTorch-050510?style=flat-square&logo=pytorch&logoColor=00D4FF)
+![PyTorch](https://img.shields.io/badge/PyTorch-050510?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 ![TRL](https://img.shields.io/badge/TRL-050510?style=flat-square&logoColor=00D4FF)
 ![Unsloth](https://img.shields.io/badge/Unsloth-050510?style=flat-square&logoColor=00D4FF)
 ![Qwen2.5](https://img.shields.io/badge/Qwen2.5-050510?style=flat-square&logoColor=00D4FF)
@@ -112,18 +112,18 @@ class DivyaSharanya:
 
 ---
 
-### `PROJECT_02` — [Placement Assistant](https://github.com/divyasharanya/placement-assistant) &nbsp;|&nbsp; *AI-Powered Career Intelligence*
+### `02` — [Placement Assistant](https://github.com/divyasharanya/placement-assistant) &nbsp;|&nbsp; *AI-Powered Career Intelligence*
 
 <img align="right" src="https://img.shields.io/badge/STATUS-LIVE-00ff88?style=flat-square&labelColor=050510"/>
 
-> An intelligent placement preparation assistant that leverages **LLMs + RAG** to deliver personalised interview prep, resume feedback, and company-specific insights. Combines **semantic search over a curated knowledge base** with generative AI for contextual, accurate guidance — not hallucinations.
+> Intelligent placement prep assistant using **LLMs + RAG** to deliver personalised interview prep, resume feedback, and company-specific insights. Combines **semantic search over a curated knowledge base** with generative AI for accurate, contextual guidance.
 
 ```
   User Query  →  Embedding Model  →  Vector Store
-                                          ↓
-                                    Retrieval (top-k)
-                                          ↓
-                                    LLM + Context  →  Answer
+                                           ↓
+                                     Retrieval (top-k)
+                                           ↓
+                                     LLM + Context  →  Answer
 ```
 
 ![Python](https://img.shields.io/badge/Python-050510?style=flat-square&logo=python&logoColor=00D4FF)
@@ -134,11 +134,11 @@ class DivyaSharanya:
 
 ---
 
-### `PROJECT_03` — [Multi-Agent Assistant](https://github.com/divyasharanya/multi-agent-assistant) &nbsp;|&nbsp; *Orchestrator Architecture*
+### `03` — [Multi-Agent Assistant](https://github.com/divyasharanya/multi-agent-assistant) &nbsp;|&nbsp; *Orchestrator Architecture*
 
 <img align="right" src="https://img.shields.io/badge/STATUS-COMPLETE-7FDBFF?style=flat-square&labelColor=050510"/>
 
-> An orchestrator that intelligently routes user intent to specialised sub-agents — **Task, Calendar, Notes, Search** — using dynamic intent parsing and LLM-driven decision trees. Designed for modularity: plug in new agents without touching core routing logic.
+> An orchestrator that routes user intent to specialised sub-agents — **Task, Calendar, Notes, Search** — using dynamic intent parsing and LLM-driven decision trees. Plug in new agents without touching core routing logic.
 
 ```
   User Input
@@ -171,16 +171,17 @@ class DivyaSharanya:
 ![HTML5](https://img.shields.io/badge/HTML5-050510?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-050510?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-### LLM / AI / ML
+### LLM / AI / ML / Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-050510?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-050510?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 ![TRL](https://img.shields.io/badge/TRL-050510?style=for-the-badge&logoColor=00D4FF)
 ![Unsloth](https://img.shields.io/badge/Unsloth-050510?style=for-the-badge&logoColor=00D4FF)
 ![LangChain](https://img.shields.io/badge/LangChain-050510?style=for-the-badge&logo=chainlink&logoColor=00D4FF)
 ![OpenCV](https://img.shields.io/badge/OpenCV-050510?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-050510?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![Pandas](https://img.shields.io/badge/Pandas-050510?style=for-the-badge&logo=pandas&logoColor=150458)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-050510?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/Pandas-050510?style=for-the-badge&logo=pandas&logoColor=7FDBFF)
 ![NumPy](https://img.shields.io/badge/NumPy-050510?style=for-the-badge&logo=numpy&logoColor=013243)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-050510?style=for-the-badge&logoColor=00D4FF)
 
 ### Backend & Databases
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-050510?style=for-the-badge&logo=springboot&logoColor=6DB33F)
@@ -189,7 +190,7 @@ class DivyaSharanya:
 ![MySQL](https://img.shields.io/badge/MySQL-050510?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-050510?style=for-the-badge&logo=postgresql&logoColor=336791)
 
-### Frontend & Tools
+### Frontend & DevOps
 ![React](https://img.shields.io/badge/React-050510?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-050510?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-050510?style=for-the-badge&logo=git&logoColor=F05032)
